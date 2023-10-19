@@ -18,6 +18,6 @@ subscription_id = "0fd8d403-ae7b-43e4-840a-5c4ff327c4cf"
 }
 
 resource "azurerm_resource_group" "rg" {
-  name = "jkl"
+  name = "test1234"
   location = "West Europe"
 }
